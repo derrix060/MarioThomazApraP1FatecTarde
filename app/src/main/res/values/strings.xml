@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MarioThomazApraP1FatecTarde</string>
+    <string name="action_settings">Buy</string>
+    <string name="added">Item added with success!</string>
+    <string name="lbl_price">Price:</string>
+    <string name="lbl_amount">Amount:</string>
+    <string name="lbl_item_total">Item total:</string>
+    <string name="lbl_cart_total">Cart total:</string>
+</resources>
