@@ -5,7 +5,7 @@ First test in Mobile Devices class
 
 ## Instructions (in Portuguese)
 
-1. Utilizando Android Studio, desenvolva uma aplicação para Android que
+### Utilizando Android Studio, desenvolva uma aplicação para Android que
 - Exibe um campo em que o usuário pode visualizar imagens de livros em que ele pode estar interessado.
 - Exibe dois botões, um com o símbolo “<” e o outro com o símbolo “>”. Eles devem respectivamente
 permitir que o usuário navegue entre os livros existentes. A aplicação deve possuir a foto da capa de pelo
@@ -19,7 +19,7 @@ deseje comprar.
 entre o valor unitário do livro e o número de unidades que o usuário deseja.
 - Exibe um botão que permite ao usuário fechar a compra. Neste momento uma mensagem deve aparecer
 exibindo o total da compra do usuário.
-2. Os seguintes itens devem ser respeitados.
+### Os seguintes itens devem ser respeitados.
 - O SDK mínimo deve ser Lollipop.
 - A aplicação deve usar uma combinação de cores do Material Design, envolvendo uma cor azul.
 - A aplicação deve utilizar o suporte à internacionalização e fornecer seu conteúdo em dois idiomas
